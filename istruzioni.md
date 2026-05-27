@@ -13,5 +13,3 @@
 	-uso di funzioni [0/1]
 	-compila [0/1]
 	-difficoltà esercizio [0/4]
-	
-modifica epika
